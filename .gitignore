@@ -1,6 +1,9 @@
 # Ignore RCDB versions and rcdb_current
 rcdb_*/
 
+# Ignore miniforge
+miniforge3/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
